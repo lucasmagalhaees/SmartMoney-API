@@ -1,1 +1,3 @@
 # SmartMoney-API
+
+A aplicação foi desenvolvida com Java versão 1.8. As tabelas são geradas pela aplicação, e a conexão com o banco de dados MySQL tem usuário (root) e senha (123456). A aplicação cria um banco chamado 'algamoney' se o mesmo não existir. O projeto pode ser executado pelo STS ou pelo Eclipse, tendo a classe AlgamoneyApiAplication como executável. Optou-se pelo uso do framework Spring pelas vantagens que oferece ao desenvolvedor, proporcionando o desenvolvimento de APIs JAVA com segurança e confiabilidade, além de agregar praticidade atráves das ferramentas oferecidas pelo framework. 
