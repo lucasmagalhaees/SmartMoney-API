@@ -17,7 +17,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<spring.fox.version>2.9.2</spring.fox.version>
+		<spring.fox.version>2.10.0</spring.fox.version>
 		<jasperreports.version>6.5.1</jasperreports.version>
 		<jasperreports-functions.version>6.5.1</jasperreports-functions.version>
 		<jasperreports-fonts.version>6.0.0</jasperreports-fonts.version>
